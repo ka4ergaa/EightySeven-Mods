@@ -1,3 +1,7 @@
+## 1.2.11 (10.09.22)
+
+- Added FPS suffix in optimization section
+
 ## 1.2.10 (10.09.22)
 
 - Fixed a bug where FPS was still displayed instead of percentages
