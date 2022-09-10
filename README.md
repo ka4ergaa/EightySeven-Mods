@@ -1,7 +1,11 @@
-## About the application
+# [EightySeven Mods](https://eightyseven.ru/mods/en) – Auto-installing Minecraft mods
+Application for auto-installing mods, shaders, builds and optimization for Minecraft.
 
-EightySeven Mods - Application for auto-installing Minecraft mods
-Mods, shaders, builds and optimization for Minecraft in one app
+[![Version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&r=r&type=6e&v=1.2.8&x2=0)](https://github.com/ka4ergaa/EightySeven-Mods/releases)
+
+![AppScreen](https://eightyseven.ru/assets/mods/10/src/home1.png)
+
+## About the application
 
 EightySeven Mods will help you install mods for Minecraft.
 This is the best app for those who want to download mods, improve the game, reate your build and increase FPS.
