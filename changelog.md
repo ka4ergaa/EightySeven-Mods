@@ -1,3 +1,10 @@
+## 1.3.1 (11.09.22)
+
+- Hidden scrollbar in mods section
+- Update check frequency changed to 10 minutes
+- Increased spacing between mods in the mods section
+- Fixed a bug with a thin strip at the bottom under the modifications of the optimization section
+
 ## 1.3.0 (11.09.22)
 
 - Added a button to download the update, it will appear if an update appears on the site within 20 minutes
