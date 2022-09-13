@@ -1,3 +1,8 @@
+## 1.3.2 (13.09.22)
+
+- Improved mod scrolling system
+- Added category "Other"
+
 ## 1.3.1 (11.09.22)
 
 - Hidden scrollbar in mods section
