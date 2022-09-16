@@ -1,3 +1,7 @@
+## 1.3.3 (16.09.22)
+
+- Added check for network connection
+
 ## 1.3.2 (13.09.22)
 
 - Improved mod scrolling system
