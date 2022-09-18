@@ -1,3 +1,7 @@
+## 1.4.2 (18.09.22)
+
+- Fixed a bug when the program tried to delete itself
+
 ## 1.4.1 (18.09.22)
 
 - Fixed a bug where it was possible to resize the deprecation window
