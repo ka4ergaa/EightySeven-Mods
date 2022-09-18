@@ -1,3 +1,14 @@
+## 1.4.0 (18.09.22)
+
+- Possibility of deprecation of versions
+- Application installer
+- After installation or update, a shortcut is created on the desktop
+- The application is automatically added to all Windows applications, which allows you to quickly find it in the search
+- The executable file has been moved to the root folder
+- Installation via the auto-installer has become mandatory
+- Removed text "Choose a shader" in the graphics section
+- Added "Open Gallery" button, which opens a site with shader screenshots
+
 ## 1.3.3 (16.09.22)
 
 - Added check for network connection
