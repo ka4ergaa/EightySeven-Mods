@@ -1,3 +1,8 @@
+## 1.4.1 (18.09.22)
+
+- Fixed a bug where it was possible to resize the deprecation window
+- Changed the size of the deprecation window
+
 ## 1.4.0 (18.09.22)
 
 - Possibility of deprecation of versions
