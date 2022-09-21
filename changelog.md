@@ -1,3 +1,7 @@
+## 1.4.3 (21.09.22)
+
+- Catching errors and writing them to the logs
+
 ## 1.4.2 (18.09.22)
 
 - Fixed a bug when the program tried to delete itself
