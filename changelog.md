@@ -1,3 +1,7 @@
+## 2.0.1 (01.12.22)
+
+- Fixed a bug where after 10 minutes of being in the application, it could not reconnect to Discord
+
 ## 2.0.0 (01.12.22)
 
 - Fix rendering error when exiting a section while it is running
