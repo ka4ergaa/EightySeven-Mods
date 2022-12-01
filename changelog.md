@@ -1,3 +1,39 @@
+## 2.0.0 (01.12.22)
+
+- Fix rendering error when exiting a section while it is running
+- Removed the display of the section in Rich Presence
+- Improved crash reporting system
+- Creation of a crash report on a crash, anywhere
+- Progress bar when loading a mod in the taskbar
+- Error when connecting to the server in the taskbar (glows red)
+- Fix bug when trying to delete a non-existent value in the registry
+- Now the date of registration is recorded in Moscow time, and not in local
+- Select a category on the main
+- Removed small pictures in Rich Presence
+- Displaying download percentages on the mod install button
+- Updated mod loading picture
+- Asynchronous loading of mod pictures
+- Reduced delay between switching news (from 30 to 15 sec.)
+- Increased the Y coordinate of the buttons and text on the mod page
+- Fix bug when installing Fabric in Core
+- Mod compatibility check
+- Language setting, at the first start, will automatically be in Russian, if the system language is set to the CIS countries (more than the number of them)
+- Assembly section
+- Selecting the path to the game folder through the file dialog
+- The function in the settings for auto-selecting the version when installing the mod
+- Fix bugs when installing mods
+- Recording the time of the last entry into the program
+- Window that opens on first login
+- Changed image of EightySeven Core
+- Fixed bug when Fabric API was not downloaded
+- Storing user information in a database
+- Authorization via Discord
+- Improved the right panel in the optimization section
+- Choice of versions for mods
+- Changing the window for selecting presets and versions of mods (window shape, custom close button removed)
+- Changed graphics section
+- Creating desktop shortcut in Settings
+
 ## 1.4.3 (21.09.22)
 
 - Catching errors and writing them to the logs
