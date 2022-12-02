@@ -1,3 +1,7 @@
+## 2.0.3 (03.12.22)
+
+- Fixed a bug when, for any news other than the first one, switch the category, the first one started to be displayed, and not the one needed
+
 ## 2.0.2 (02.12.22)
 
 - Removed forgotten MessageBox from optimization section
