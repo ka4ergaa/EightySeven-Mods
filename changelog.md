@@ -1,3 +1,9 @@
+## 2.0.4 (03.12.22)
+
+- Fixed a bug when a line was accidentally skipped in the logs
+- Fixed a bug where another line was not created in the Updater
+- Now when updating, a copy of the program will not be created on the C drive (this was not used in any way)
+
 ## 2.0.3 (03.12.22)
 
 - Fixed a bug when, for any news other than the first one, switch the category, the first one started to be displayed, and not the one needed
