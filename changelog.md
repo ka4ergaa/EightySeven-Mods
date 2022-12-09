@@ -1,3 +1,8 @@
+## 2.0.5 (09.12.22)
+
+- Updated File Updater
+- Updated installer file
+
 ## 2.0.4 (03.12.22)
 
 - Fixed a bug when a line was accidentally skipped in the logs
