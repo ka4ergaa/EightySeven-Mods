@@ -1,3 +1,7 @@
+## 2.0.6 (10.12.22)
+
+- Getting file data of Updater from url
+
 ## 2.0.5 (09.12.22)
 
 - Updated File Updater
