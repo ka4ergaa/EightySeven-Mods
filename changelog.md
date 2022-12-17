@@ -1,3 +1,16 @@
+## 2.0.7 (17.12.22)
+
+- Disabled display of the welcome window on first launch
+- Fixed a bug when the application could not connect to the server
+- Now BUG HUNTER version is issued through the database, not Discord
+- The "Retry" button on the window with an error connecting to the server
+- Fixed a bug when the application crashed when trying to copy an error
+- Restarting the application after logging out of the account (previously it was just closing)
+- Fixed a bug when when resetting the application, it was completely deleted
+- An item in the settings that allows you to disable Core checks for mod compatibility
+- Warning that the application will be restarted/closed when logging out of the account, changing the root folder of the game, deleting all mods and resetting the application
+- Added translation for build information (name and version)
+
 ## 2.0.6 (10.12.22)
 
 - Getting file data of Updater from url
