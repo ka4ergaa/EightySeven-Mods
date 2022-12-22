@@ -1,3 +1,11 @@
+## 2.0.8 (22.12.22)
+
+- Fixed a bug when when entering the graphics section, the selected shader was set to Sildurs Vibrant, and not SEUS Renewed
+- Ability to disable connection to MySQL (only for developers)
+- Issuing an error connecting to the server, when crashing due to the database
+- Display news in selected language (enabled on restart)
+- More render logs
+
 ## 2.0.7 (17.12.22)
 
 - Disabled display of the welcome window on first launch
