@@ -1,3 +1,9 @@
+## 2.0.9 (25.12.22)
+
+- Fixed a bug when scrolling everything went back to the top
+- Removed the "Switch to English" button, because the language is set automatically
+- Start window on first launch
+
 ## 2.0.8 (22.12.22)
 
 - Fixed a bug when when entering the graphics section, the selected shader was set to Sildurs Vibrant, and not SEUS Renewed
