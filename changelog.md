@@ -1,3 +1,7 @@
+## 2.0.10 (25.12.22)
+
+- Changed the way to check the first run, to display the first run window
+
 ## 2.0.9 (25.12.22)
 
 - Fixed a bug when scrolling everything went back to the top
