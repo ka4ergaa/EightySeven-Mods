@@ -1,3 +1,8 @@
+## 2.0.11 (26.12.22)
+
+- Now the state of the MySQL server is obtained from the site
+- Changed MySQL server
+
 ## 2.0.10 (25.12.22)
 
 - Changed the way to check the first run, to display the first run window
