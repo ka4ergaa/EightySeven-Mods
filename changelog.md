@@ -1,3 +1,8 @@
+## 2.0.12 (28.12.22)
+
+- Improved back button: now the "Back" button opens not just the modifications form, but opens the previous form (even if it is a modification page) with saving scrolling progress
+- More translation
+
 ## 2.0.11 (26.12.22)
 
 - Now the state of the MySQL server is obtained from the site
